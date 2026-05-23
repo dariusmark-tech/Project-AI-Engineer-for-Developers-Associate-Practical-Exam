@@ -1,4 +1,4 @@
-# 🤖 Automating Customer Support with OpenAI API
+# Automating Customer Support with OpenAI API
 
 > **AI Engineer for Developers Associate — Practical Exam**
 > Built with Python · OpenAI Embeddings · GPT-3.5-turbo · Cosine Similarity
